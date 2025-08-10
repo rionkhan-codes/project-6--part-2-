@@ -1,0 +1,14 @@
+/* ---------- fonts links ----------- */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+
+
+/* ----------- normal css ---------- */
+.main{
+  cursor: pointer;
+  transition: all linear .4s;
+}
+.main:hover{
+  background: #EFF2FC;
+  color: #3E4265;
+}
